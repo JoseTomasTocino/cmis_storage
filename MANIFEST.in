@@ -1,0 +1,6 @@
+include AUTHORS.rst
+include CONTRIBUTING.rst
+include HISTORY.rst
+include LICENSE
+include README.rst
+recursive-include cmis_storage *.html *.png *.gif *js *.css *jpg *jpeg *svg *py
