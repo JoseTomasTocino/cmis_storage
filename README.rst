@@ -91,5 +91,4 @@ or authorization check.
 Credits
 ---------
 
-This module was built by José Tomás Tocino and other authors that may be referenced in the AUTHORS file,
-during the development of several internal projects at the University of Cádiz, Spain.
+This module was built by José Tomás Tocino and other authors that may be referenced in the AUTHORS file, and was financed by the University of Cádiz (Spain) for the development of several internal projects.
